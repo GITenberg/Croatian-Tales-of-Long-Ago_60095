@@ -1,0 +1,58 @@
+_repo: Croatian-Tales-of-Long-Ago_60095
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Williams, Morris Meredith
+    aliases:
+    - Williams, M. Meredith
+    - Williams, Morris M.
+    birthdate: 1881
+    deathdate: 1973
+    gutenberg_agent_id: '38907'
+    url: http://www.gutenberg.org/2009/agents/38907
+    wikipedia: https://en.wikipedia.org/wiki/Morris_Meredith_Williams
+  - agent_name: Kirin, Vladimir
+    birthdate: 1894
+    deathdate: 1963
+    gutenberg_agent_id: '50790'
+    url: http://www.gutenberg.org/2009/agents/50790
+    wikipedia: https://hr.wikipedia.org/wiki/Vladimir_Kirin
+  translator:
+    agent_name: Copeland, Fanny S.
+    aliases:
+    - Copeland, F. S. (Fanny S.)
+    - Copeland, Fanny Susan
+    birthdate: 1872
+    deathdate: 1970
+    gutenberg_agent_id: '49728'
+    url: http://www.gutenberg.org/2009/agents/49728
+creator:
+  author:
+    agent_name: Brlic-Mazuranic, Ivana
+    alias: Brlic-Mazuranic, I. (Ivana)
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '50789'
+    url: http://www.gutenberg.org/2009/agents/50789
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ivana_Brli%C4%87-Ma%C5%BEurani%C4%87
+    - https://hr.wikipedia.org/wiki/Ivana_Brli%C4%87-Ma%C5%BEurani%C4%87
+description: ''
+gutenberg_issued: '2019-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Croatia'
+- !lcc 'GR'
+- !lcsh 'Fairy tales -- Croatia'
+- GITenberg
+tableOfContents: How Quest sought the truth -- Fisherman Plunk and his wife -- Reygoch
+  -- Bridesman Sun and bride Bridekins -- Stribor's forest -- Little brother Primrose
+  and sister Lavender -- Notes.
+title: Croatian Tales of Long Ago
+url: http://www.gutenberg.org/ebooks/60095
