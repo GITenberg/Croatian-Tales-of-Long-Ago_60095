@@ -1,5 +1,5 @@
 _repo: Croatian-Tales-of-Long-Ago_60095
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Williams, Morris Meredith
@@ -26,6 +26,9 @@ contributor:
     deathdate: 1970
     gutenberg_agent_id: '49728'
     url: http://www.gutenberg.org/2009/agents/49728
+covers:
+- cover_type: archival
+  image_path: 60095-h/images/cover.jpg
 creator:
   author:
     agent_name: Brlic-Mazuranic, Ivana
@@ -38,6 +41,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ivana_Brli%C4%87-Ma%C5%BEurani%C4%87
     - https://hr.wikipedia.org/wiki/Ivana_Brli%C4%87-Ma%C5%BEurani%C4%87
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60095#Croatian-Tales-of-Long-Ago
 gutenberg_issued: '2019-08-12'
 gutenberg_type: Text
 identifiers:
